@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Venkimut.github.io/handbook-tgyino/sitemap.xml
